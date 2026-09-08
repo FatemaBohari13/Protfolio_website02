@@ -31,11 +31,11 @@ The objective of this project was to create a professional portfolio that presen
 
 ## 🌐 Live Demo
 
-[Add your GitHub Pages link here]
+https://fatemabohari13.github.io/Protfolio_website02/
 
 ## 📂 Repository Link
 
-[Add your GitHub repository link here]
+https://github.com/FatemaBohari13/Protfolio_website02/
 
 ## 🎯 Learning Outcomes
 
